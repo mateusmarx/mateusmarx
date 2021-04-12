@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mateusmarx
-- 👀 I’m interested in 
+- 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning Data Analysis and Business Intelligence
 - 💞️ I’m looking to collaborate on new projects
 - 📫 E-mail: mateus.gif@gmail.com
